@@ -1,0 +1,1 @@
+web: gunicorn demoFletx.wsgi --log-file -

@@ -1,0 +1,26 @@
+.item {
+    background-color: #191414;
+    margin : 5px 5px 5px 5px;
+    padding :  0 10px 0 10px;
+    border-radius : 30px;
+    list-style-type:  none;
+    height : 30px;
+    width : 100px;
+    text-align: center;
+    text-decoration: none;
+    color : #d8d1d1;
+    justify-content: space-between;
+    min-width: 10%;
+    align-items: center;
+}
+
+.selected {
+    background-color: #1db954; 
+    color : #FFFFFF;
+}
+
+.container {
+    background-color: #191414;
+    height: 35px;
+    align-items: center; 
+}

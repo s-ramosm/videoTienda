@@ -1,0 +1,7 @@
+.lista_peliculas{
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    justify-content: space-between;
+    margin: auto
+}
